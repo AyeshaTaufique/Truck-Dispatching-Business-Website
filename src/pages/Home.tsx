@@ -111,7 +111,7 @@ export default function Home() {
               </div>
               <div className="mt-auto px-10 pb-10">
                 <div className="rounded-2xl overflow-hidden border border-zinc-100 shadow-lg">
-                  <img src="https://images.unsplash.com/photo-1524661135-423995f22d0b?auto=format&fit=crop&w=800&q=80" alt="Route Map" className="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-700" referrerPolicy="no-referrer" />
+                  <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=600&q=80" alt="Route Map" className="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-700" referrerPolicy="no-referrer" />
                 </div>
               </div>
             </div>
@@ -129,7 +129,7 @@ export default function Home() {
               </div>
               <div className="mt-auto px-10 pb-10">
                 <div className="rounded-2xl overflow-hidden border border-zinc-100 shadow-lg bg-zinc-50 p-4">
-                   <img src="https://images.unsplash.com/photo-1507208513727-14201115163f?auto=format&fit=crop&w=800&q=80" alt="Schedule UI" className="w-full h-56 object-cover rounded-xl group-hover:scale-105 transition-transform duration-700" referrerPolicy="no-referrer" />
+                   <img src="https://images.unsplash.com/photo-1524661135-423995f22d0b?auto=format&fit=crop&w=600&q=80"/>
                 </div>
               </div>
             </div>
